@@ -105,12 +105,6 @@ Developed using Flask. Key endpoints:
 2. **Anomaly Detection**: Identified unusual delivery times for operational insights.
 3. **Alert System**: Notified users about late deliveries.
 
-## Video Demonstration
-A detailed video walkthrough of the system is included, showcasing:
-1. Problem definition and objectives.
-2. Backend and API functionalities.
-3. Dashboard and UI features.
-4. Technical implementation and optimizations.
 
 ---
 
